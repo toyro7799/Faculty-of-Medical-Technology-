@@ -1,0 +1,5 @@
+{
+  "name": "Academic Schedule Organizer",
+  "description": "An interactive academic schedule viewer that organizes lecture data hierarchically by Department, Day, and Time, based on extracted PDF data.",
+  "requestFramePermissions": []
+}
